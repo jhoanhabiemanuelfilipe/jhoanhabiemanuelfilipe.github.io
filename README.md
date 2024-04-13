@@ -1,3 +1,3 @@
 # filipedosreissantos.github.io
-Portfolio Udacity
+Portfolio
 https://filipedosreissantos.github.io
